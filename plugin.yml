@@ -1,0 +1,9 @@
+name: VoucherPlus
+main: Voucher\Main
+version: 1.0.0
+api: [3.0.0, 3.3.1]
+author: Shelly7w7
+description: Voucher
+commands:
+ voucher:
+  description: "Gives a voucher"
