@@ -1,5 +1,5 @@
 name: VoucherPlus
-main: Shelly\Voucher\Main
+main: Shelly7w7\Voucher\Main
 version: 1.0.0
 api: [3.0.0]
 author: Shelly7w7
