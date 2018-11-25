@@ -1,6 +1,6 @@
 <?php
 
-namespace Shelly7w7\Voucher;
+namespace Shelly\Voucher;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
