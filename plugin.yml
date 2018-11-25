@@ -1,8 +1,8 @@
 name: VoucherPlus
-main: Shelly\Voucher\Main
+main: Voucher\Main
 version: 1.0.0
 api: [3.0.0]
-author: Shelly
+author: Shelly7w7
 description: Voucher
 commands:
  voucher:
